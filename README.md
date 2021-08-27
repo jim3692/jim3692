@@ -13,7 +13,7 @@
 - 📫 Reach me @ jim3692@gmail.com
 - 🚀 Some details about my projects
 
-  ## DISCLAIMER: None of the projects are currently live as I am currently working on configuring a new server cluster.
+  ## DISCLAIMER: None of the projects are currently live as I am working on configuring a new server cluster.
 
   ### 1. [college-resources/monopoliee](https://github.com/college-resources/monopoliee)
     It started as a school project. The requirement was to develop a simple online game using MySQL, PHP and HTML. However, me and my team wanted to go beyond those limits. We wanted to develop a Monopoly clone that would be inspired by the life in our college.
