@@ -10,7 +10,7 @@
   - React.js
   - MikroTik
   - Salesforce Apex
-- 📫 Reach me @ jim3692@gmail.com
+- 📫 Reach me @ dim@knp.one
 - 🚀 Some details about my projects
 
   ## DISCLAIMER: None of the projects are currently live as I am working on configuring a new server cluster.
